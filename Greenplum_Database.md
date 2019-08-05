@@ -17,3 +17,9 @@
   - E.G. with 3rd party Client: NAVICAT
     
     Using postgreSQL to access GP
+
+### Querying Data
+Information about using SQL in Greenplum databases.
+
+You enter SQL statements called queries to view, change, and analyze data in a database using the psql interactive SQL client and other client tools.
+https://gpdb.docs.pivotal.io/43210/admin_guide/query/topics/query.html
