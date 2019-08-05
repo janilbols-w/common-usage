@@ -1,10 +1,9 @@
-# Info to using Greenplum database
-## Official Document/Tutorial Info
-### Home site
+# Greenplum Database
+## Home site
   https://greenplum.org/
-### Get started
+## Get started
   https://greenplum.org/greenplum-101/
-### Document home page:
+## Document home page:
   https://gpdb.docs.pivotal.io/43210/common/welcome.html
 
 ### Access & usage:
