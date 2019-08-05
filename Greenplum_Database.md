@@ -1,12 +1,16 @@
 # Greenplum Database
 ## Home site
   https://greenplum.org/
-## Get started
+  
+## 1 Installation
+  https://greenplum.org/download/
+### 1.1
+  
+## 2 Get started (navigator)
   https://greenplum.org/greenplum-101/
-## Document home page:
+## 3 Document home page:
   https://gpdb.docs.pivotal.io/43210/common/welcome.html
-
-### Access & usage:
+### 3.1 Access & usage:
   https://gpdb.docs.pivotal.io/43210/admin_guide/managing/partII.html
   
   - greenplum supports postgreSQL as database access tool.
@@ -23,7 +27,7 @@
     
     Using postgreSQL to access GP
 
-### Querying Data
+### 3.2 Querying Data
   - Information about using SQL in Greenplum databases.
 
     You enter SQL statements called queries to view, change, and analyze data in a database using the psql interactive SQL client and other client tools.
