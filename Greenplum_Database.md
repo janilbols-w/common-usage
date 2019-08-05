@@ -2,6 +2,8 @@
 ## Official Document/Tutorial Info
 ### Home site
   https://greenplum.org/
+### Get started
+  https://greenplum.org/greenplum-101/
 ### Document home page:
   https://gpdb.docs.pivotal.io/43210/common/welcome.html
 
