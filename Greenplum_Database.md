@@ -13,3 +13,7 @@
   official info for using postgreSQL to acces: https://gpdb.docs.pivotal.io/43210/admin_guide/access_db/topics/g-connecting-with-psql.html
   
   Info about postgreSQL: https://www.postgresql.org/docs/
+  
+  - E.G. with 3rd party Client: NAVICAT
+    
+    Using postgreSQL to access GP
