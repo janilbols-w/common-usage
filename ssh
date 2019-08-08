@@ -1,0 +1,4 @@
+# CMD for ssh
+
+# check host key
+for f in /etc/ssh/ssh_host_*_key; do ssh-keygen -l -f "$f"; done
