@@ -6,3 +6,5 @@ Common problems and solutions for daily toolkits, software, environment settings
 2. OpenSSH server for windows - https://github.com/janilbols/common-usage/blob/master/OpenSSH_4_windows.md
 
 3. PostgreSQL: https://github.com/janilbols/common-usage/blob/master/PostgreSQL.md
+
+4. MySQL: https://github.com/janilbols/common-usage/blob/master/mysql.md
