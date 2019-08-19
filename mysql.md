@@ -24,9 +24,9 @@ from mysql.connector import errorcode
 
 # Connect to Database
 config = {
-  'user': 'root',
-  'password': 'abc1234',
-  'host': '10.246.67.165',
+  'user': 'user',
+  'password': 'password',
+  'host': '127.0.0.1',
   'raise_on_warnings': True
 }
 
