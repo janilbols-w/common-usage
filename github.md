@@ -8,3 +8,8 @@ git config --global user.email "email@example.com"
 ```
 sudo apt-get install --reinstall ca-certificates
 ```
+or
+```
+git config --global http.sslverify false
+```
+
