@@ -17,7 +17,7 @@ mysql -u username -p
 ```
 ### Check Process
 ```
-SHOW PROCESSLIST
+SHOW PROCESSLIST;
 ```
 
 ## connect via python
