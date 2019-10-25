@@ -15,7 +15,10 @@ sudo docker exec -it dbname bash
 ```
 mysql -u username -p
 ```
-
+### Check Process
+```
+SHOW PROCESSLIST
+```
 
 ## connect via python
 ```python
