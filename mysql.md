@@ -68,6 +68,7 @@ cursor.execute(sql,datum)
 # Pandas + Python + MySQL
 ## installation
 pip install mysql-connector-python
+
 pip install SQLAlchemy
 ## usage
 
