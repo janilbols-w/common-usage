@@ -65,3 +65,19 @@ cursor.execute(sql)
 cursor.execute(sql,datum)
 ```
 
+# Pandas + Python + MySQL
+## installation
+pip install mysql-connector-python
+pip install SQLAlchemy
+## usage
+
+```python
+import pandas as pd
+import sqlalchemy as sql
+
+connect_string = 'mysql+mysqlconnector://user:password@HOST:PORT/DBname'
+sql_engine = sql.create_engine(connect_string)
+
+query =query = "show tables"
+df = pd.read_sql_query(query, sql_engine)
+```
