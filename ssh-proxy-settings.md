@@ -10,7 +10,7 @@ proxy-server B || has internet access
     ssh -D [port] username@proxy-server
     keep this terminal，ssh to proxy-server
 # usage of ssh tunnel
-  -apt:
+  - apt:
       - vim /etc/apt/apt.conf.d/proxy.conf
       - add the containt below:
         - Acquire::http::Proxy "socks5h://localhost:[port]";
