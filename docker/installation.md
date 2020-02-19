@@ -21,7 +21,7 @@ Before you install Docker CE for the first time on a new host machine, you need 
 ```
     $ sudo apt-get update
 ```
-	2. Install packages to allow apt to use a repository over HTTPS:
+  2. Install packages to allow apt to use a repository over HTTPS:
 ```
     $ sudo apt-get install \
         apt-transport-https \
@@ -30,7 +30,7 @@ Before you install Docker CE for the first time on a new host machine, you need 
         gnupg-agent \
         software-properties-common
 ```
-	3. Add Docker’s official GPG key:
+  3. Add Docker’s official GPG key:
 ```
     $ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 ```
@@ -62,7 +62,7 @@ Note: The lsb_release -cs sub-command below returns the name of your Ubuntu di
        stable"
 ```
 ## INSTALL DOCKER CE
-	1. Update the apt package index.
+  1. Update the apt package index.
 ```
     $ sudo apt-get update
 ```
@@ -70,7 +70,7 @@ Note: The lsb_release -cs sub-command below returns the name of your Ubuntu di
 ```
     $ sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
-	3. Verify that Docker CE is installed correctly by running the hello-world image.
+  3. Verify that Docker CE is installed correctly by running the hello-world image.
 ```  
     $ sudo docker run hello-world
 ```
